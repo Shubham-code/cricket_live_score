@@ -1,5 +1,50 @@
+body{
+  background: darkgreen;
+}
+
+
 .App {
   text-align: center;
+}
+.hone{
+  font-variant: normal;
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: normal;
+  font-variant: small-caps;
+  background-color: sienna;
+  padding: 5px 5px;
+  border-radius: 70px;
+  border-style: groove;
+  color: chartreuse;
+}
+.dt{
+  margin: left;
+  align-content: Left;
+  font-variant: normal;
+  font-size: 15px;
+  font-family: 'monospace';
+  font-weight: normal;
+  font-variant: small;
+/* background-color: darkgreen; */
+  background-color: rgba(20, 7, 1, 0.575);
+  border-style: normal;
+  color:whitesmoke;
+
+}
+.htwo{
+  align-content: center;
+  font-variant: normal;
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: normal;
+  font-variant: uppercase;
+  border-radius: 100px;
+  font-weight: lighter;
+  background-color:darkgreen;
+  border-style: hidden;
+  color: Yellow
+;
 }
 
 .App-logo {
